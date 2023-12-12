@@ -1,0 +1,20 @@
+.carousel-inner{
+    height: 50%;
+    width: 50%;
+}
+body{
+    height: 80%;
+    width: 80%;
+    margin-left: 7%;
+    
+}
+.card{
+    float: left;
+    margin-left: 5%;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
